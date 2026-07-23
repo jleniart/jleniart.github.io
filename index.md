@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Smoker Classification Using Biometric and Health Data](/pdf/NBA_RAPTOR_Final_Report.pdf)
+[Smoker Classification Using Health Data](/pdf/Smoker_Classification_Presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
