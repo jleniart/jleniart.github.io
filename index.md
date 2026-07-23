@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Smoker Classification Using Biometric and Health Data](/pdf/NBA_RAPTOR_Final_Report.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
