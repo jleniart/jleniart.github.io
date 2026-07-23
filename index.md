@@ -8,7 +8,7 @@
 <img src="images/Diabetes_Photo_CorrPlot.png?raw=true"/>
 
 ---
-[Analysis of NBA RAPTOR Dataset](/pdf/sample_presentation.pdf)
+[Analysis of NBA RAPTOR Dataset](/pdf/NBA RAPTOR Final Report.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
