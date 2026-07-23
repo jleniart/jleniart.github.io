@@ -4,11 +4,11 @@
 
 ### Data Science Projects
 
-[Diabetes Health Indicators](/sample_page)
+[Diabetes Classification Using Health Indicators](/sample_page)
 <img src="images/Diabetes_Photo_CorrPlot.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Analysis of NBA RAPTOR Dataset](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
