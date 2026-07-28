@@ -13,7 +13,7 @@
 
 ---
 [Smoker Classification Using Health Data](/pdf/Smoker_Classification_Presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Smoker_Scores_ConfusionMatrix.png?raw=true"/>
 
 ---
 
