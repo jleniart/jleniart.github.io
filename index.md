@@ -9,7 +9,7 @@
 
 ---
 [Analysis of NBA RAPTOR Dataset](/pdf/NBA_RAPTOR_Final_Report.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/NBARAPTOR_PCAplot.png?raw=true"/>
 
 ---
 [Smoker Classification Using Health Data](/pdf/Smoker_Classification_Presentation.pdf)
