@@ -4,7 +4,7 @@
 
 ### Data Science Projects
 
-[Diabetes Classification Using Health Indicators](/sample_page)
+[Diabetes Classification Using Health Indicators](/Final_Project_Diabetes_Classification.html)
 <img src="images/Diabetes_Photo_CorrPlot.png?raw=true"/>
 
 ---
