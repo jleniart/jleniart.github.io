@@ -16,6 +16,12 @@
 <img src="images/Smoker_Scores_ConfusionMatrix.png?raw=true"/>
 
 ---
+### Fraud Detection Using AWS and PySpark
+[Notebook (HTML)](/notebooks/FraudDetection_FinalReport.pdf)
+[Report](/pdf/FraudDetection_FinalReport.pdf)
+<img src="images/FraudDetection_Architecture.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
