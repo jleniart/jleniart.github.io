@@ -1,8 +1,8 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
-### Data Science Projects
+### Projects
 
 [Diabetes Classification Using Health Indicators](/Final_Project_Diabetes_Classification.html)
 <img src="images/Diabetes_Photo_CorrPlot.png?raw=true"/>
