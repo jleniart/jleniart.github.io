@@ -32,6 +32,8 @@
 
 ##### All of these projects and relevant files can be found in the repositories of my GitHub profile: https://github.com/jleniart
 
+#### For more information about me, check out my resume:
+[Resume](/pdf/Jack_Leniart_Resume.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
