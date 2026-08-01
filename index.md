@@ -21,7 +21,7 @@
 
 ---
 
-### Fraud Detection Using AWS and PySpark
+### Fraud Detection Using AWS
 [Notebook (HTML)](/notebooks/FraudDetection_FinalReport.html)
 
 [Final Report (PDF)](/pdf/FraudDetection_FinalReport.pdf)
@@ -30,6 +30,7 @@
 
 ---
 
+All of these projects and relevant files can be found in the repositories of my GitHub profile: https://github.com/jleniart
 
 
 ---
