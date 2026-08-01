@@ -30,7 +30,7 @@
 
 ---
 
-All of these projects and relevant files can be found in the repositories of my GitHub profile: https://github.com/jleniart
+##### All of these projects and relevant files can be found in the repositories of my GitHub profile: https://github.com/jleniart
 
 
 ---
