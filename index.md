@@ -30,7 +30,7 @@
 
 ---
 
-##### All of these projects and relevant files can be found in the repositories of my GitHub profile: https://github.com/jleniart
+#### All of these projects and relevant files can be found in the repositories of my GitHub profile: https://github.com/jleniart
 
 #### For more information about me, check out [my resume](/pdf/Jack_Leniart_Resume.pdf)
 
